@@ -1,0 +1,2 @@
+# metodologia-
+mi primer repositorio
